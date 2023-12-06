@@ -2,7 +2,7 @@
 This Python code is an example of how to send an automatic email using the smtplib library.
 
 ## Getting Started
-To run this code, you will need to have Python installed on your computer. You can download the latest version of Python from the official website 1.
+To run this code, you will need to have Python installed on your computer. You can download the latest version of Python from the official website.
 
 ## Prerequisites
 This code requires the following Python libraries to be installed:
